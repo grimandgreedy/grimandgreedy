@@ -1,6 +1,3 @@
-A collection of things I've made and am making.
-
-
 ## 🚧 Working On
 
 - **brimcraft**: Rust-based fluid simulator
