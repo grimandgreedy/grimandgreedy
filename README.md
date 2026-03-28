@@ -15,9 +15,10 @@ A collection of things I've made and am making.
 - [python_curses_syntax_highlighting](https://github.com/grimandgreedy/python_curses_syntax_highlighting): Syntax highlighting for Python curses TUI applications
 
 
-## 🔌 Scripts & Plugins
+## 🔌 Plugins & Scripts
 
 - [ffmpeg-stats.yazi](https://github.com/grimandgreedy/ffmpeg-stats.yazi): Display media stats in yazi using ffmpeg
+- [qutebrowser-scripts](https://github.com/grimandgreedy/qutebrowser-scripts): Qutebrowser userscripts
 - [ollama_model_export](https://github.com/grimandgreedy/ollama_model_export): Transfer, export, or backup models from ollama
 - [mpv-scripts](https://github.com/grimandgreedy/mpv-scripts): MPV scripts
-- [qutebrowser-scripts](https://github.com/grimandgreedy/qutebrowser-scripts): Qutebrowser userscripts
+
