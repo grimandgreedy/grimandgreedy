@@ -9,7 +9,7 @@
 - [listpick](https://github.com/grimandgreedy/listpick): Powerful TUI data tool for viewing, editing and operating upon tabulated data
 - [lpfman](https://github.com/grimandgreedy/lpfman): Basic TUI file manager built on listpick
 - [Calcu](https://github.com/grimandgreedy/Calcu): Scientific calculator
-- [python_curses_syntax_highlighting](https://github.com/grimandgreedy/python_curses_syntax_highlighting): Code block viewer for TUI applications
+- [python_curses_syntax_highlighting](https://github.com/grimandgreedy/python_curses_syntax_highlighting): Pythoon curses code block previewer for TUI applications
 
 
 ## 🔌 Plugins & Scripts
