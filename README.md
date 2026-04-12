@@ -1,7 +1,6 @@
 ## 🚧 Working On
 
 - **brimcraft**: Rust-based fluid simulator
-- **brimcraft-runner**: server+frontend for staging and running brimcraft simulations
 
 ## 🛠 Public Projects
 
