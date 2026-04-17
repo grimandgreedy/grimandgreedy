@@ -4,6 +4,7 @@
 
 ## 🛠 Public Projects
 
+- [viewport-lib](https://github.com/grimandgreedy/viewport-lib): GPU-accelerated 3D viewport rendering library for rust
 - [aria2tui](https://github.com/grimandgreedy/aria2tui): TUI client for the Aria2 download utility
 - [listpick](https://github.com/grimandgreedy/listpick): Powerful TUI data tool for viewing, editing and operating upon tabulated data
 - [lpfman](https://github.com/grimandgreedy/lpfman): Basic TUI file manager built on listpick
