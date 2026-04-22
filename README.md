@@ -8,7 +8,7 @@
 ## 🛠 Public Projects
 
 > **[viewport-lib](https://github.com/grimandgreedy/viewport-lib)**
-> GPU-accelerated 3D viewport rendering library for Rust
+> GPU-accelerated 3D viewport rendering library
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 > **[aria2tui](https://github.com/grimandgreedy/aria2tui)**
