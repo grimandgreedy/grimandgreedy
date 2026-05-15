@@ -19,6 +19,13 @@
 > Powerful TUI data tool for viewing, editing and operating upon tabulated data
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+
+## 🛠 Minor
+> **[grimdock](https://github.com/grimandgreedy/grimdock)**
+>  Dockable panel layout system for egui
+> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+
 > **[lpfman](https://github.com/grimandgreedy/lpfman)**
 > Basic TUI file manager built on listpick
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
