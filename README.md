@@ -11,6 +11,11 @@
 > GPU-accelerated 3D viewport rendering library
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
+> **[poincare](https://github.com/grimandgreedy/poincare)**
+> Interactive 3D mathematical plotting tool
+> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+
 > **[aria2tui](https://github.com/grimandgreedy/aria2tui)**
 > TUI client for the Aria2 download utility
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
