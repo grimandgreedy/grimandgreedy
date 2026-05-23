@@ -26,6 +26,10 @@
 
 
 ## 🛠 Minor
+> **[viewport-lib-io](https://github.com/grimandgreedy/viewport-lib-io)**
+> File format loaders and exporters for viewport-lib
+> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
 > **[grimdock](https://github.com/grimandgreedy/grimdock)**
 >  Dockable panel layout system for egui
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
