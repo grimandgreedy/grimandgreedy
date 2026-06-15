@@ -24,11 +24,17 @@
 > Powerful TUI data tool for viewing, editing and operating upon tabulated data
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-## 🛠 Minor
+## 🔧 viewport-lib
 > **[viewport-lib-io](https://github.com/grimandgreedy/viewport-lib-io)**
 > File format loaders and exporters for viewport-lib
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+> 
+> **[viewport-lib-terrain](https://github.com/grimandgreedy/viewport-lib-terrain)**
+> Terrain scene item plugin for viewport-lib; stitched mesh patches with dynamic culling
+> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+
+## ⛏️ Minor
 
 > **[grimdock](https://github.com/grimandgreedy/grimdock)**
 >  Dockable panel layout system for egui
