@@ -1,11 +1,11 @@
-## 🚧 Working On
+## Working On
 
 > **brimcraft** fluid simulator
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
-## 🛠 Public Projects
+## Public Projects
 
 > **[viewport-lib](https://github.com/grimandgreedy/viewport-lib)**
 > GPU-accelerated 3D viewport rendering library
@@ -24,7 +24,8 @@
 > Powerful TUI data tool for viewing, editing and operating upon tabulated data
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🔧 viewport-lib
+
+## viewport-lib
 > **[viewport-lib-io](https://github.com/grimandgreedy/viewport-lib-io)**
 > File format loaders and exporters for viewport-lib
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -33,8 +34,13 @@
 > Terrain scene item plugin for viewport-lib; stitched mesh patches with dynamic culling
 > ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
+## Other
+> **[spatial-query](https://github.com/grimandgreedy/spatial-query)**
+> N-dimensional spatial query engine
+> ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-## ⛏️ Minor
+
+## Minor
 
 > **[grimdock](https://github.com/grimandgreedy/grimdock)**
 >  Dockable panel layout system for egui
@@ -55,7 +61,7 @@
 
 ---
 
-## 🔌 Plugins & Scripts
+## Plugins & Scripts
 
 > **[ffmpeg-stats.yazi](https://github.com/grimandgreedy/ffmpeg-stats.yazi)**
 > Display media stats in yazi using ffmpeg
